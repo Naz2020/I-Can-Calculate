@@ -1,6 +1,7 @@
 # Project Name: I-Can-Calculate
 
-# Description:  To create a child’s calculator in android studio.
+# Description:  
+To create a child’s calculator in android studio.
 
 # Features: 
           Top of the calculator will display the current calculation followed by answer after equals button is pressed.
