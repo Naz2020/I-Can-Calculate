@@ -1,5 +1,5 @@
 # Project Name: 
-I-Can-Calculate
+I Can Calculate
 
 # Description:  
 To create a child’s calculator in android studio.
